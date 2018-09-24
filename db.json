@@ -1,0 +1,93 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ação",
+      "filmes": [
+        {
+          "id":1,
+          "titulo":"Assassin’s Creed",
+          "imagem":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":2,
+          "titulo":"Super Girl",
+          "imagem":"https://assets0.minhaserie.com.br/uploads/editor_pictures/000/063/751/content_pic.jpg"
+        },
+        {
+          "id":3,
+          "titulo":"Assassin’s Creed",
+          "imagem":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":4,
+          "titulo":"Super Girl",
+          "imagem":"https://assets0.minhaserie.com.br/uploads/editor_pictures/000/063/751/content_pic.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Terror",
+      "filmes": [
+        {
+          "id":1,
+          "titulo":"It: A Coisa",
+          "imagem":"http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+        },
+        {
+          "id":2,
+          "titulo":"It: A Coisa",
+          "imagem":"http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+        },
+        {
+          "id":3,
+          "titulo":"It: A Coisa",
+          "imagem":"http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Aventura",
+      "filmes": [
+        {
+          "id":1,
+          "titulo":"Vingadores: Guerra Infinita",
+          "imagem":"https://cdn.cinepop.com.br/2017/10/vingadores3_39-750x380.jpg"
+        },
+        {
+          "id":2,
+          "titulo":"Vingadores: Guerra Infinita",
+          "imagem":"https://cdn.cinepop.com.br/2017/10/vingadores3_39-750x380.jpg"
+        },
+        {
+          "id":3,
+          "titulo":"Vingadores: Guerra Infinita",
+          "imagem":"https://cdn.cinepop.com.br/2017/10/vingadores3_39-750x380.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Fantasia",
+      "filmes": [
+        {
+          "id":1,
+          "titulo":"Capitã Marvel",
+          "imagem":"https://cdn.cinepop.com.br/2018/09/capitamarvel21-750x380.jpg"
+        },
+        {
+          "id":2,
+          "titulo":"Capitã Marvel",
+          "imagem":"https://cdn.cinepop.com.br/2018/09/capitamarvel21-750x380.jpg"
+        },
+        {
+          "id":3,
+          "titulo":"Capitã Marvel",
+          "imagem":"https://cdn.cinepop.com.br/2018/09/capitamarvel21-750x380.jpg"
+        }
+      ]
+    }
+  ]
+}
